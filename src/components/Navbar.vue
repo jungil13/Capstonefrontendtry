@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white py-4 shadow-md shadow-gray-600 fixed top-0 w-full z-50">
+  <header class="bg-white py-1 shadow-md shadow-gray-600 fixed top-0 w-full z-50">
     <div class="container mx-auto flex items-center justify-between px-4 md:px-0">
       <!-- Logo and Site Name -->
       <RouterLink to="/" class="logo text-lg text-gray-600 font-semibold flex items-center">
