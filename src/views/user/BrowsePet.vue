@@ -1,5 +1,5 @@
 <template>
-    <div class="space-y-6 mt-16">
+    <div class="space-y-6 mt-8">
         <!-- Carousel Section -->
         <div class="space-y-6">
             <!-- Carousel Component -->
